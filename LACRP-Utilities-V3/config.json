@@ -1,0 +1,34 @@
+{
+  "defaultPrefix": "%",
+  "reactionSuccess": "✔️",
+  "reactionError": "❌",
+  "deletionTimeout": 10000,
+  "suggestionChId": "940753384112271411",
+  "bugChId": "954007011941576714",
+  "urls": {
+    "botInviteLink": "https://discord.com/oauth2/authorize?client_id=928344613675233311&permissions=268561494&scope=bot%20applications.commands",
+    "discordInviteLink": "https://discord.gg/t5pv3UaxqQ",
+    "topgg": "https://top.gg",
+    "website": "http://utilities.lacrp.hodss.gq",
+    "github": "https://github.com/ScripterRickster"
+  },
+  "deafultWelcomeMsg": "Wish [user] a pleasant stay!",
+  "defaultLeaveMsg": "[user] has parted ways with us...",
+  "suggestionPending": {
+    "color": "#ffff00",
+    "statusTitle": "Suggestion Pending",
+    "status": "This suggestion is currently awaiting review, please be patient."
+  },
+  "suggestionAccepted": {
+    "color": "#008000",
+    "statusTitle": "Suggestion Accepted",
+    "status": "This suggestion has been approved, and will be forwarded to the Management Team to be implemented!"
+  },
+  "suggestionDeclined": {
+    "color": "#ff0000",
+    "statusTitle": "Suggestion Declined",
+    "status": "Thank you for suggesting, however the suggestion has sadly been declined. We appreciate those who suggest, as it provides new idea's for the staff team to implement! We encourage you to continue suggesting idea's for the server! "
+  },
+  "suggestionApprove": "👍",
+  "suggestionDecline": "👎"
+}
